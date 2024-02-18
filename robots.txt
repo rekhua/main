@@ -4,6 +4,7 @@ Disallow: /*/data/*
 Disallow: /*/data/
 Disallow: /*/data/*.json
 Disallow: *.json
+Disallow: *.yml
 Disallow: /404.html
 Disallow: /add.html
 Disallow: /new.html
