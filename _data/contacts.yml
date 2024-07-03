@@ -1,36 +1,36 @@
 #
 # Region
 #
-- type: region
-  item: kharkivska
-  name: Нерухомість у Харківській області
-  address: 76018, м. Івано-Франківськ, вул.&nbsp;Січових&nbsp;Стрільців,&nbsp;56
-  phone_main: 380974949649
-  phone_hot: 380974949649
-  phone_fax: 380974949649
-  email: info@realestate.kh.ua
-  www: https://www.realestate.kh.ua/
+# - type: region
+#   item: kharkivska
+#   name: Нерухомість у Харківській області
+#   address: 76018, м. Івано-Франківськ, вул.&nbsp;Січових&nbsp;Стрільців,&nbsp;56
+#   phone_main: 380974949649
+#   phone_hot: 380974949649
+#   phone_fax: 380974949649
+#   email: info@realestate.kh.ua
+#   www: https://www.realestate.kh.ua/
 
 #
 # District
 #
-- type: district
-  item: kharkivlkyy
-  name: Нерухомість у Харківському районі
+# - type: district
+#   item: kharkivlkyy
+#   name: Нерухомість у Харківському районі
 
 #
 # District / Town
 #
-- type: town
-  item: balakliia
-  name: Нерухомість в місті Балаклія
+# - type: town
+#   item: balakliia
+#   name: Нерухомість в місті Балаклія
 
 #
 # Region / City
 #
-- type: city
-  item: kharkiv
-  name: Нерухомість у місті Харків
+# - type: city
+#   item: kharkiv
+#   name: Нерухомість у місті Харків
 
 #
 # Developers / Company
@@ -42,9 +42,9 @@
 #
 # Realtor / Agent
 #
-- type: realtor
-  item: bandera
-  name: Нерухомість в Харкові - Степан Бандера
+# - type: realtor
+#   item: bandera
+#   name: Нерухомість в Харкові - Степан Бандера
   # address: 76018, м. Івано-Франківськ, вул.&nbsp;Січових&nbsp;Стрільців,&nbsp;56
   # phone_main: 380672349221
   # phone_hot: 380672349221
